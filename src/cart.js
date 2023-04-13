@@ -174,7 +174,7 @@ export function Cart({ isActive, changePage, cart, productPrices, resetCart }) {
             >
               Shop More
             </button>
-            <div className="border-white border-2 p-4 bg-white rounded">
+            <div className="border-black border-2 p-4 bg-white rounded" style={{ marginTop: "16%" }}>
               <h1>Your Cart</h1>
               <div className="text-left">
                 {Object.keys(cart).map((key) =>
@@ -229,12 +229,12 @@ export function Cart({ isActive, changePage, cart, productPrices, resetCart }) {
           <div className="col-8" >
             <div className="text-white" id="liveAlertPlaceholder"></div>
 
-            <form className="row g-3 text-white" id="checkout-form">
+            <form className="row g-3 text-black" id="checkout-form">
               <div className="col-md-6">
                 <label htmlFor="inputName" className="form-label">
                   Full Name
                 </label>
-                <input
+                <input 
                   type="text"
                   className="form-control"
                   id="inputName"
@@ -364,9 +364,9 @@ export function Cart({ isActive, changePage, cart, productPrices, resetCart }) {
               </div>
             </form>
 
-            <div className="card collapse" style={{ width: "25rem" }}>
+            <div className="card collapse" style={{ borderColor: "black",borderWidth: "2px", width: "25rem" }}>
               <div className="card-body">
-                <h5 className="card-title py-10" >Order Confirmation</h5>
+                <h5 className="card-title py-3" >Order Summary</h5>
               </div>
               <ul className="list-group list-group-flush"></ul>
               <button style={{ backgroundColor: "green" }}

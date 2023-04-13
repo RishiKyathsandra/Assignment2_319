@@ -43,7 +43,7 @@ export function App() {
   }
 
   return (
-    <div className="h-screen bg-gray-300" >
+    <div className="h-screen" >
       <Browse
         isActive={page === "Browse"}
         changePage={changePage}
