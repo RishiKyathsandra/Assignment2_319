@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Janardhans",
+      "price": 100,
+      "description": "Sports Wear",
+      "category": "Sports",
+      "url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": 2,
+      "name": "CarHeart 500's",
+      "price": 100,
+      "description": "Office wear",
+      "category": "Professional",
+      "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Air Nasik",
+      "price": 100,
+      "description": "Sports wear",
+      "category": "Sports",
+      "url": "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1179&q=80"
+    },
+    {
+      "id": 4,
+      "name": "IceCream Vans",
+      "price": 100,
+      "description": "Casual wear",
+      "category": "Casual",
+      "url": "https://images.unsplash.com/photo-1512990414788-d97cb4a25db3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80"
+    },
+    {
+      "id": 5,
+      "name": "OrangeYouGlad 200",
+      "price": 100,
+      "description": "Sports wear",
+      "category": "Sports",
+      "url": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Asli Balance 550",
+      "price": 100,
+      "description": "Sports wear",
+      "category": "Sports",
+      "url": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=812&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Sparks Library",
+      "price": 100,
+      "description": "Style wear",
+      "category": "Style",
+      "url": "https://images.unsplash.com/photo-1604671801908-6f0c6a092c05?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 8,
+      "name": "No Balance 650",
+      "price": 100,
+      "description": "Sports wear",
+      "category": "Sports",
+      "url": "https://images.unsplash.com/photo-1539185441755-769473a23570?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+    }
+  ]
+}
